@@ -28,6 +28,7 @@ A curated list of awesome software for chrome extension.
 * [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - The easiest way to identify fonts on web pages.
 * [SEOquake](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc) - SEOquake is a free plugin that provides you with key SEO metrics, along with other useful tools such as SEO Audit and many others.
 * [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) - Manage and switch between multiple proxies quickly & easily.
+* [Quick QR Code Generator](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp) - A super handy QR Code Generator / Creator for you.
 
 ## Productivity
 * [Authenticator](https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai) - Authenticator generates 2-Step Verification codes in your browser. 
