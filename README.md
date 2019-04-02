@@ -60,6 +60,7 @@ A curated list of awesome software for chrome extension.
 * [Anti-Porn Pro](https://chrome.google.com/webstore/detail/anti-porn-pro-the-best-an/hbepadcdhpahlikldbochnhfleejiokp) - Cloduacl Anti-Porn Pro is cloud based web filtering application protecting your family browsing by monitoring millions web sites.
 * [ExtensionHigh Contrast](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph) - Change or invert the color scheme to make webpages easier to read.
 * [LastPass: Free Password Manager](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - LastPass, an award-winning password manager, saves your passwords and gives you secure access from every computer and mobile device.
+* [Taskade](https://chrome.google.com/webstore/detail/taskade-team-task-notes-a/hcobdfnjjaceclfdjpmmpiknimccjpmf) - Team task list, notes and chat, all in one app. Get work done faster and smarter. Taskade is simple, flexible and fun.
 
 ## Shopping
 * [Honey](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj) - Automatically find and apply coupon codes when you shop online!
