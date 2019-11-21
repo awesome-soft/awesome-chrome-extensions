@@ -35,6 +35,7 @@ A curated list of awesome software for chrome extension.
 ## Productivity
 * [Authenticator](https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai) - Authenticator generates 2-Step Verification codes in your browser. 
 * [Advertising Terminator](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl) - Clear all the ads on the page: floating ads, shopping ads, malicious pop, tracking code, video ads.
+* [Daily](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied_) — Replaces your new tab with curated latest dev articles. 
 * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers.
 * [ExtensionVideo Adblocker for Youtube](https://chrome.google.com/webstore/detail/video-adblocker-for-youtu/hflefjhkfeiaignkclmphmokmmbhbhik) - YouTube Adblocker removes all ads: pre-roll video ads, text & banner ads. Save time by stopping those useless advertisements.
 * [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) - View and edit Microsoft Word, Excel, and PowerPoint files with Google Docs, Sheets, and Slides.
