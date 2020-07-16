@@ -11,6 +11,7 @@ A curated list of awesome software for chrome extension.
     - [Photos](#photos)
     - [Fun](#fun)
     - [Social & Communication](#social--communication)
+    - [Privacy](#privacy)
   
 ## Developer Tools
 * [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo) - Postman Interceptor helps you send requests which use browser cookies through the Postman app.
@@ -84,4 +85,8 @@ A curated list of awesome software for chrome extension.
 * [DotVPN](https://chrome.google.com/webstore/detail/dotvpn-%E2%80%94-a-better-way-to/kpiecbcckbofpmkkkdibbllpinceiihk) - Unblock Proxy. Browse Internet with Fast VPN for Chrome. Open blocked sites with our best free proxy for a virtual private network.
 * [SetupVPN - Lifetime Free VPN](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp) - Unblock any blocked website in your country, school or company. It's free and easy to use.
 * [goo.gl URL Shortener](https://chrome.google.com/webstore/detail/googl-url-shortener-unoff/iblijlcdoidgdpfknkckljiocdbnlagk) - Shorten url with goo.gl, the Google URL shortener, and share with many different service!
+
+## Privacy
+
+* [SimpleLogin](https://chrome.google.com/webstore/detail/simplelogin-extension/dphilobhebphkdjbpfohgikllaljmgbn) - Open-source service to protect your email address using email alias.
 
