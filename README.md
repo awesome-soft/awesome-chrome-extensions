@@ -31,6 +31,7 @@ A curated list of awesome software for chrome extension.
 * [Quick QR Code Generator](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp) - A super handy QR Code Generator / Creator for you.
 * [Which Login did I use last time?](https://chrome.google.com/webstore/detail/which-login-did-i-use-las/pbnablopmmpgohgbnpelcdagpiboccbh) - A browser extension that remembers which social login you used last time.
 * [WhatRun](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) - Discover what runs a website.
+* [Gmail Labels as Tabs](https://tuladhar.github.io/gmail-labels-as-tabs/) - Organize your Gmail labels as tabs.
 
 ## Productivity
 * [Authenticator](https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai) - Authenticator generates 2-Step Verification codes in your browser. 
