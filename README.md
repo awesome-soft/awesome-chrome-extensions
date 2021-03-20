@@ -19,6 +19,7 @@ A curated list of awesome software for chrome extension.
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents.
 * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) - Makes JSON easy to read. Open source.
 * [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Extension to show code tree for GitHub.
+* [CodeWing](https://chrome.google.com/webstore/detail/codewing-github-code-navi/njkkfaliiinmkcckepjdmgbmjljfdeee) - Next level code navigation for GitHub.
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to the Chrome Developer Tools.
 * [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl) - Extract, edit, and evaluate XPath queries with ease.
 * [Gliffy Diagram](https://chrome.google.com/webstore/detail/gliffy-diagram/afepgdbkjbondnbhnpmecadgkflcokfp) - Diagrams Made Easy. Draw a flowchart, org chart, UML, ERD, network diagram, wireframe, BPMN, and other diagrams.
