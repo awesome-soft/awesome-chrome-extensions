@@ -11,7 +11,7 @@ A curated list of awesome software for chrome extension.
     - [Photos](#photos)
     - [Fun](#fun)
     - [Social & Communication](#social--communication)
-  
+
 ## Developer Tools
 * [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo) - Postman Interceptor helps you send requests which use browser cookies through the Postman app.
 * [Tabbed Postman - REST Client](https://chrome.google.com/webstore/detail/tabbed-postman-rest-clien/coohjcphdfgbiolnekdpbcijmhambjff) - This is the legacy postman extension that can run in a Chrome tab.
@@ -31,11 +31,12 @@ A curated list of awesome software for chrome extension.
 * [Quick QR Code Generator](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp) - A super handy QR Code Generator / Creator for you.
 * [Which Login did I use last time?](https://chrome.google.com/webstore/detail/which-login-did-i-use-las/pbnablopmmpgohgbnpelcdagpiboccbh) - A browser extension that remembers which social login you used last time.
 * [WhatRun](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) - Discover what runs a website.
+* [OpenGraphs](https://www.opengraphs.com/tools/browser-extension) - Open Graph debugger and social share previews, without leaving your site.
 
 ## Productivity
-* [Authenticator](https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai) - Authenticator generates 2-Step Verification codes in your browser. 
+* [Authenticator](https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai) - Authenticator generates 2-Step Verification codes in your browser.
 * [Advertising Terminator](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl) - Clear all the ads on the page: floating ads, shopping ads, malicious pop, tracking code, video ads.
-* [Daily](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied_) — Replaces your new tab with curated latest dev articles. 
+* [Daily](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied_) — Replaces your new tab with curated latest dev articles.
 * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers.
 * [ExtensionVideo Adblocker for Youtube](https://chrome.google.com/webstore/detail/video-adblocker-for-youtu/hflefjhkfeiaignkclmphmokmmbhbhik) - YouTube Adblocker removes all ads: pre-roll video ads, text & banner ads. Save time by stopping those useless advertisements.
 * [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) - View and edit Microsoft Word, Excel, and PowerPoint files with Google Docs, Sheets, and Slides.
@@ -84,4 +85,3 @@ A curated list of awesome software for chrome extension.
 * [DotVPN](https://chrome.google.com/webstore/detail/dotvpn-%E2%80%94-a-better-way-to/kpiecbcckbofpmkkkdibbllpinceiihk) - Unblock Proxy. Browse Internet with Fast VPN for Chrome. Open blocked sites with our best free proxy for a virtual private network.
 * [SetupVPN - Lifetime Free VPN](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp) - Unblock any blocked website in your country, school or company. It's free and easy to use.
 * [goo.gl URL Shortener](https://chrome.google.com/webstore/detail/googl-url-shortener-unoff/iblijlcdoidgdpfknkckljiocdbnlagk) - Shorten url with goo.gl, the Google URL shortener, and share with many different service!
-
