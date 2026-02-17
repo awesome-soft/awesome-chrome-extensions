@@ -77,6 +77,7 @@ A curated list of awesome software for chrome extension.
 * [2048 in Popup](https://chrome.google.com/webstore/detail/2048/ijkmjnaahlnmdjjlbhbjbhlnmadmmlgg) - Play 2048 anytime you want, it's always in your browser!
 * [FarmVille 2 Buddy](https://chrome.google.com/webstore/detail/farmville-2-buddy/gifllahgdeogmfooohjdgbhlpnjbacab) - Officially the best way to experience all the posts sent to you, by your fellow farmers! [Works only for FV2 on Facebook].
 * [cats.](https://chrome.google.com/webstore/detail/cats/pdfklfdfahcjkkkogigggbfhbojcnhgb) - There are no uninteresting cats; only uninterested people.
+* [Orange Cheeto](https://www.cheetodon.com) - Replaces "Trump" with funny nicknames like "Mango Mussolini" on every website. Free, no tracking.
 
 ## Social & Communication
 * [Google Mail Checker](https://chrome.google.com/webstore/detail/google-mail-checker/mihcahmgecmbnbcchbopgniflfhgnkff) - Displays the number of unread messages in your Google Mail inbox. You can also click the button to open your inbox.
