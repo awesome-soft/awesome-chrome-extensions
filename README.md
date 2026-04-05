@@ -66,6 +66,7 @@ A curated list of awesome software for chrome extension.
 * [Taskade](https://chrome.google.com/webstore/detail/taskade-team-task-notes-a/hcobdfnjjaceclfdjpmmpiknimccjpmf) - Team task list, notes and chat, all in one app. Get work done faster and smarter. Taskade is simple, flexible and fun.
 * [Password Checkup extension](https://chrome.google.com/webstore/detail/password-checkup-extensio/pncabnpcffmalkkjpajodfhijclecjno?hl=en) - The Password Checkup extension helps you resecure accounts that were affected by data breaches.
 * [Bookmark Tweet to Browser](https://chrome.google.com/webstore/detail/bookmark-tweet-to-browser/fcohgfilngajddgokkckbpfkpmojoejf) - Bookmark tweet to browser bookmark directly from timeline using embedded button.
+* [gTabs - AI Tab Organizer](https://chromewebstore.google.com/detail/gtabs-ai-tab-organizer/hcpbchmdcjbgbmjihnenbfalepcdncnb) - Organize Chrome tabs with AI — smart groups that learn your habits, 8 LLM providers (including local Ollama + Chrome AI), editable suggestions, one-click undo, scheduled re-org, pinned groups, and duplicate finder. Open source, no ads.
 
 ## Shopping
 * [Honey](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj) - Automatically find and apply coupon codes when you shop online!
