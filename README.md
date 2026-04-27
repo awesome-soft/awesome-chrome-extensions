@@ -31,6 +31,7 @@ A curated list of awesome software for chrome extension.
 * [Quick QR Code Generator](https://chrome.google.com/webstore/detail/quick-qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp) - A super handy QR Code Generator / Creator for you.
 * [Which Login did I use last time?](https://chrome.google.com/webstore/detail/which-login-did-i-use-las/pbnablopmmpgohgbnpelcdagpiboccbh) - A browser extension that remembers which social login you used last time.
 * [WhatRun](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) - Discover what runs a website.
+* [Resemble AI Deepfake Detector](https://chromewebstore.google.com/detail/resemble-ai-deepfake-dete/ligejojghpehckjpfldljdcckgcbngle) - Scan web images, videos, and audio for AI-generated or manipulated media.
 
 ## Productivity
 * [Authenticator](https://chrome.google.com/webstore/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai) - Authenticator generates 2-Step Verification codes in your browser. 
@@ -84,4 +85,3 @@ A curated list of awesome software for chrome extension.
 * [DotVPN](https://chrome.google.com/webstore/detail/dotvpn-%E2%80%94-a-better-way-to/kpiecbcckbofpmkkkdibbllpinceiihk) - Unblock Proxy. Browse Internet with Fast VPN for Chrome. Open blocked sites with our best free proxy for a virtual private network.
 * [SetupVPN - Lifetime Free VPN](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp) - Unblock any blocked website in your country, school or company. It's free and easy to use.
 * [goo.gl URL Shortener](https://chrome.google.com/webstore/detail/googl-url-shortener-unoff/iblijlcdoidgdpfknkckljiocdbnlagk) - Shorten url with goo.gl, the Google URL shortener, and share with many different service!
-
