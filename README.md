@@ -81,6 +81,7 @@ A curated list of awesome software for chrome extension.
 ## Social & Communication
 * [Google Mail Checker](https://chrome.google.com/webstore/detail/google-mail-checker/mihcahmgecmbnbcchbopgniflfhgnkff) - Displays the number of unread messages in your Google Mail inbox. You can also click the button to open your inbox.
 * [Avast Online Security](https://chrome.google.com/webstore/detail/avast-online-security/gomekmidlodglbbmalcneegieacbdmki) - Avast Browser Security and Web Reputation Plugin.
+* [Mastros](https://www.mastros.online/) - Chrome extensions that export WhatsApp Web and Telegram data (members, messages, contacts, media) to CSV, JSON, or JSONL, processed locally in your browser.
 * [DotVPN](https://chrome.google.com/webstore/detail/dotvpn-%E2%80%94-a-better-way-to/kpiecbcckbofpmkkkdibbllpinceiihk) - Unblock Proxy. Browse Internet with Fast VPN for Chrome. Open blocked sites with our best free proxy for a virtual private network.
 * [SetupVPN - Lifetime Free VPN](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp) - Unblock any blocked website in your country, school or company. It's free and easy to use.
 * [goo.gl URL Shortener](https://chrome.google.com/webstore/detail/googl-url-shortener-unoff/iblijlcdoidgdpfknkckljiocdbnlagk) - Shorten url with goo.gl, the Google URL shortener, and share with many different service!
