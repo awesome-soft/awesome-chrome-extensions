@@ -48,6 +48,7 @@ A curated list of awesome software for chrome extension.
 * [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - View translations easily as you browse the web. By the Google Translate team.
 * [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save up to 95% memory and reduce tab clutter.
 * [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) - Manage Browser Tabs and Bookmarks with Ease.
+* [Tabox](https://chromewebstore.google.com/detail/tabox-save-and-share-tab/bdbliblipiempfdkkkjohnecmeknnpoa) - Save tabs and tab groups into collections and reopen entire sessions in one click, with cross-device sync and sharing. Free and open source.
 * [SpeakIt!](https://chrome.google.com/webstore/detail/speakit/pgeolalilifpodheeocdmbhehgnkkbak) - Tired of reading? Select text you want to read and listen to it. SpeakIt converts text into speech so you no longer need to read.
 * [Print Friendly & PDF](https://chrome.google.com/webstore/detail/print-friendly-pdf/ohlencieiipommannpdfcmfdpjjmeolj) - Print Friendly and PDF any Webpage.
 * [Drink!](https://chrome.google.com/webstore/detail/drink/kdpaldfdmbhojkkaebckeknoempakldh) - Drink! is a simple drink reminder so you never forget to drink a little every once in a while.
