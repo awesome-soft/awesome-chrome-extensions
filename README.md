@@ -68,6 +68,7 @@ A curated list of awesome software for chrome extension.
 * [Bookmark Tweet to Browser](https://chrome.google.com/webstore/detail/bookmark-tweet-to-browser/fcohgfilngajddgokkckbpfkpmojoejf) - Bookmark tweet to browser bookmark directly from timeline using embedded button.
 
 ## Shopping
+* [CardDeals](https://chromewebstore.google.com/detail/savely-save-more-with-dis/lhpadmkgboajeocdmbcifgclampmjolo) - Automatically finds verified discount gift cards at checkout to save 5% to 15% across 1,000+ top stores.
 * [Honey](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj) - Automatically find and apply coupon codes when you shop online!
 
 ## Photos
