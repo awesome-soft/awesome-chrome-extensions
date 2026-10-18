@@ -38,6 +38,7 @@ A curated list of awesome software for chrome extension.
 * [Daily](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied_) — Replaces your new tab with curated latest dev articles. 
 * [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb) - With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers.
 * [ExtensionVideo Adblocker for Youtube](https://chrome.google.com/webstore/detail/video-adblocker-for-youtu/hflefjhkfeiaignkclmphmokmmbhbhik) - YouTube Adblocker removes all ads: pre-roll video ads, text & banner ads. Save time by stopping those useless advertisements.
+* [YuzuLingo](https://www.yuzulingo.com) - Browser extension for language learning via streamed videos, featuring hover-OCR, popup multi-dictionary lookups, and 1-click Anki export.
 * [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) - View and edit Microsoft Word, Excel, and PowerPoint files with Google Docs, Sheets, and Slides.
 * [Evernote Web Clipper](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc) - Use the Evernote extension to save things you see on the web into your Evernote account.
 * [Click&Clean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) - Deletes typed URLs, Cache, Cookies, your Download and Browsing History...instantly, with just 1-click on Click&Clean button!
