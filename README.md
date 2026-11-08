@@ -72,6 +72,7 @@ A curated list of awesome software for chrome extension.
 
 ## Photos
 * [Earth View from Google Earth](https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh) - Experience a beautiful image from Google Earth every time you open a new tab.
+* [PixLasso](https://chromewebstore.google.com/detail/plmojdihjlobobaddaacoojdkikdkppb) - Save every full-size image on a page or across open tabs into one ZIP, and save WebP or AVIF images as JPG or PNG from the right-click menu.
 
 ## Fun
 * [2048 in Popup](https://chrome.google.com/webstore/detail/2048/ijkmjnaahlnmdjjlbhbjbhlnmadmmlgg) - Play 2048 anytime you want, it's always in your browser!
