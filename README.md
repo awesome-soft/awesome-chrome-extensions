@@ -66,6 +66,7 @@ A curated list of awesome software for chrome extension.
 * [Taskade](https://chrome.google.com/webstore/detail/taskade-team-task-notes-a/hcobdfnjjaceclfdjpmmpiknimccjpmf) - Team task list, notes and chat, all in one app. Get work done faster and smarter. Taskade is simple, flexible and fun.
 * [Password Checkup extension](https://chrome.google.com/webstore/detail/password-checkup-extensio/pncabnpcffmalkkjpajodfhijclecjno?hl=en) - The Password Checkup extension helps you resecure accounts that were affected by data breaches.
 * [Bookmark Tweet to Browser](https://chrome.google.com/webstore/detail/bookmark-tweet-to-browser/fcohgfilngajddgokkckbpfkpmojoejf) - Bookmark tweet to browser bookmark directly from timeline using embedded button.
+* [Clockoli](https://chromewebstore.google.com/detail/clockoli/omkikhlcnbjpfbiicogjekhjgmbajmnl) - Free, open-source time tracker that stores time records in private GitHub repositories you control.
 
 ## Shopping
 * [Honey](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj) - Automatically find and apply coupon codes when you shop online!
